@@ -1,0 +1,14 @@
+langchain
+langchain-mistralai
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+unstructured
+beautifulsoup4
+tiktoken 
+fastapi
+uvicorn
+streamlit
+langchain-community
+
